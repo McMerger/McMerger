@@ -6,11 +6,4 @@ Find me on X: @MaillesDev
 
 ---
 
-## Some Projects
 
-- astro-platform-starter: Simple starter template for fast web projects.
-- gdp-dashboard: Lightweight dashboard for tracking time series data.
-- saas-revenue-compliance-engine: Tools for compliance and automating SaaS revenue tracking.
-- parquet-go: High-performance package to work with Parquet files in Go.
-
-Check out the rest of my repos for more.
